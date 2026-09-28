@@ -1,0 +1,2 @@
+# Harjoittelu
+Githubiin perehtymistä
